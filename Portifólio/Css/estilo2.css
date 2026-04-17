@@ -1,0 +1,40 @@
+p{
+    margin-left: 80px;color: white;font-size:large;
+    
+}
+table{
+    margin-left: 0px;width: 50px; background-color: grey
+}
+a{
+    margin-left: 90px;
+    color: aqua;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.9ClPwy9zn6Bya9qnpAiyVQHaD4?w=343&h=180&c=7&r=0&o=7&pid=1.7&rm=3); background-repeat: no-repeat; background-position: center; background-size: cover;
+    background-attachment: fixed;
+}
+h2{
+    color: white;margin-left: 0px;margin-top: 0px;
+    ;
+}
+section{
+    background-color: gray;opacity: 0.8;width: 70%;margin-left: 395px;
+    border-radius: 25px;
+    background-attachment: fixed;
+}
+
+table{
+    background-color: darkgray;margin-left: 180px;
+}
+nav{
+    border: 25px solid;border-radius: 25px;color:black;background-color: black;
+    margin-left: -20px;
+    margin-top:  -10px;
+    margin-right: -20px;
+}
+.bloco4{
+    color: red;font-size: x-large;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+a{
+    text-decoration: none;
+}

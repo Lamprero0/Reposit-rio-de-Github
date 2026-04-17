@@ -1,0 +1,41 @@
+header{
+    margin-left: 230px;
+
+}
+
+
+p{
+    font-style: italic;margin-left: 50px;
+    color: white;
+    font-size: larger;
+}
+
+body{
+    background-image: url(https://evilhazard.com.br/wp-content/uploads/2023/02/RE4_Leon-scaled.jpg); background-size: cover;background-attachment: fixed;
+}
+a{ 
+    margin-left: 50px;
+    font-size: large;
+    color: aqua;
+    text-decoration: none;
+}
+ol{
+    color: white;
+}
+img{
+
+    width: 550px;
+}
+
+.bloco{
+color: white;margin-left: 475px;opacity: 0.8;background-color:dimgray;width: 55%;border-radius: 25px;
+}
+.bloco2{
+    color: red;font-size: x-large;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+nav{
+    border: 25px solid;border-radius: 25px;color:black;background-color: black;
+    margin-left: -20px;
+    margin-top:  -10px;
+    margin-right: -20px;
+}
